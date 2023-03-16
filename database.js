@@ -11,4 +11,4 @@ pool.query(`select * from Course`, (err, res) => {
     return console.log(res);
 });
 
-console.log("It is working")
+console.log("It is working");
